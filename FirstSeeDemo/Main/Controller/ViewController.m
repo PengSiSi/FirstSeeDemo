@@ -42,7 +42,7 @@ static NSString *const OrderTableViewCellIdentify = @"OrderCellID";
 - (void)requestData {
     
     // 1.本地json模拟数据
-    NSString *jsonPath = [[NSBundle mainBundle] pathForResource:@"data" ofType:@"json"];
+    NSString *jsonPath = [[NSBundle mainBundle] pathForResource:@"Data1" ofType:@"geojson"];
     NSData *data=[NSData dataWithContentsOfFile:jsonPath];
     NSError *error;
     id jsonObject=[NSJSONSerialization JSONObjectWithData:data

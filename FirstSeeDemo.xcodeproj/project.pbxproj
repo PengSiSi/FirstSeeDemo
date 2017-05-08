@@ -41,6 +41,7 @@
 		F10E692D1E8A5E5A0031619F /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F10E69121E8A5E5A0031619F /* BaseViewController.m */; };
 		F10E694A1E8A68AA0031619F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F10E69471E8A68AA0031619F /* ViewController.m */; };
 		F10E69501E8A696D0031619F /* FoodInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F10E694F1E8A696D0031619F /* FoodInfoCell.m */; };
+		F1119B591EC0257300602150 /* Data1.geojson in Resources */ = {isa = PBXBuildFile; fileRef = F1119B581EC0257300602150 /* Data1.geojson */; };
 		F132A8D31E9E1FC700980C97 /* HTTPTool.m in Sources */ = {isa = PBXBuildFile; fileRef = F132A8D21E9E1FC700980C97 /* HTTPTool.m */; };
 		F192C9F11EA43F5B00BFAAB2 /* NSDictionary+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = F192C9F01EA43F5B00BFAAB2 /* NSDictionary+Log.m */; };
 /* End PBXBuildFile section */
@@ -141,6 +142,7 @@
 		F10E69471E8A68AA0031619F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		F10E694E1E8A696D0031619F /* FoodInfoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoodInfoCell.h; sourceTree = "<group>"; };
 		F10E694F1E8A696D0031619F /* FoodInfoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FoodInfoCell.m; sourceTree = "<group>"; };
+		F1119B581EC0257300602150 /* Data1.geojson */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Data1.geojson; sourceTree = "<group>"; };
 		F132A8D11E9E1FC700980C97 /* HTTPTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPTool.h; sourceTree = "<group>"; };
 		F132A8D21E9E1FC700980C97 /* HTTPTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPTool.m; sourceTree = "<group>"; };
 		F192C9EF1EA43F5B00BFAAB2 /* NSDictionary+Log.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+Log.h"; sourceTree = "<group>"; };
@@ -475,6 +477,7 @@
 		F10E69481E8A68AA0031619F /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				F1119B581EC0257300602150 /* Data1.geojson */,
 				F10CAFCB1E8B554400497EFD /* OrderModel.h */,
 				F10CAFCC1E8B554400497EFD /* OrderModel.m */,
 			);
@@ -697,6 +700,7 @@
 				F10E692B1E8A5E5A0031619F /* Details.css in Resources */,
 				F10E68A81E8A58740031619F /* LaunchScreen.storyboard in Resources */,
 				F10E68A51E8A58740031619F /* Assets.xcassets in Resources */,
+				F1119B591EC0257300602150 /* Data1.geojson in Resources */,
 				F10E68A31E8A58740031619F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

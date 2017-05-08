@@ -1,0 +1,92 @@
+ [
+  {
+  "name": "张三",
+  "tel": "15300087665",
+  "kilo": "2.3km",
+  "foodArr": [
+              {
+              "foodName": "奥尔良烤肉",
+              "foodNum": "4",
+              "foodPrice": "89"
+              },
+              {
+              "foodName": "奥尔良烤肉1",
+              "foodNum": "5",
+              "foodPrice": "34"
+              },
+              {
+              "foodName": "奥尔良烤肉2",
+              "foodNum": "6",
+              "foodPrice": "68"
+              },
+              {
+              "foodName": "奥尔良烤肉3",
+              "foodNum": "7",
+              "foodPrice": "65"
+              }
+              ],
+  "sumPrice": "100",
+  "remark": "备注: 番茄少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点",
+  "location": "乌镇物联网产业园1"
+  },
+  {
+  "name": "李四",
+  "tel": "15300087665",
+  "kilo": "5.88km",
+  "foodArr": [
+              {
+              "foodName": "梅菜扣肉1",
+              "foodNum": "4",
+              "foodPrice": "89"
+              },
+              {
+              "foodName": "梅菜扣肉1",
+              "foodNum": "5",
+              "foodPrice": "34"
+              },
+              {
+              "foodName": "梅菜扣肉2",
+              "foodNum": "6",
+              "foodPrice": "68"
+              },
+              {
+              "foodName": "梅菜扣肉3",
+              "foodNum": "7",
+              "foodPrice": "65"
+              }
+              ],
+  "sumPrice": "100",
+  "remark": "备注: 红烧肉少一点,蛋多一点.",
+  "location": "乌镇物联网产业园2"
+  },
+  {
+  "name": "王五",
+  "tel": "15300087669",
+  "kilo": "2.99km",
+  "foodArr": [
+              {
+              "foodName": "蒜苗炒肉盖饭",
+              "foodNum": "4",
+              "foodPrice": "89"
+              },
+              {
+              "foodName": "蒜苗炒肉盖饭1",
+              "foodNum": "5",
+              "foodPrice": "34"
+              },
+              {
+              "foodName": "蒜苗炒肉盖饭2",
+              "foodNum": "6",
+              "foodPrice": "68"
+              },
+              {
+              "foodName": "蒜苗炒肉盖饭3",
+              "foodNum": "7",
+              "foodPrice": "65"
+              }
+              ],
+  "sumPrice": "100",
+  "remark": "备注: 蒜苗少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点,蒜苗少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点,番茄少一点,蛋多一点,蒜苗少一点,蛋多一点.番茄少一点,蛋多一点.番茄少一点,蛋多一点",
+  "location": "乌镇物联网产业园1"
+  }
+  ]
